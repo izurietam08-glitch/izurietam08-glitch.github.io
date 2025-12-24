@@ -1,0 +1,101 @@
+.float-left {
+  float: left;
+  margin-right: 15px; 
+  margin-bottom: 15px; 
+}
+.float-right {
+  float: right;
+  margin-right: 15px; 
+  margin-bottom: 15px; 
+}
+section img{
+    width:400px;
+    border:solid white 10px;
+    border-radius: 40px;
+}
+body{
+    color:white;
+    background-color: #0c012091;
+    padding:100px;
+    max-width: 80%;
+    margin:auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+main{
+    text-align:center;
+    height:100vh;
+}
+section{
+    text-align: justify;
+    height:100vh;
+    font-size:150%
+}
+main img{
+    border: 5px solid #E28C00;
+  
+}
+main h6{
+    background-color:#e4971b;
+    color:white;
+    padding:8px;
+    border-radius:20px;
+}
+header{
+    background-color:#eea633;
+    color:white;
+    border-radius:20px;
+}
+nav{
+    margin-top: 20px;
+}
+nav a{
+    text-align: center;
+    margin-right:10px;
+    text-decoration: none;
+    border-radius:20px;
+}
+.first{
+    background-color:#E28C00;
+    color:white;
+    padding:8px;
+    border-radius:20px;
+}
+.second{
+    background-color: #eccd00;
+    color:white;
+    padding:8px;
+    border-radius:20px;
+}
+.third{
+    background-color:white;
+    color:#0c0120;
+    padding:8px;
+    border-radius:20px;
+}
+.forth{
+    background-color:#62AEDC;
+    color:white;
+    padding: 8px;
+    border-radius:20px;
+}
+.fifth{
+    background-color:#203856;
+    color:white;
+    padding: 8px;
+    border-radius:20px;
+}
+main img{
+    margin-top:20px;
+}
+html{
+    background-image: url(https://i.pinimg.com/736x/27/e1/d3/27e1d397b0cb0c380ee1090d97fba4bc.jpg) ;
+    background-repeat: repeat;
+}
+audio{
+    margin-bottom:80px;
+}
+section a{
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+}
